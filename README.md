@@ -29,4 +29,4 @@
   
 </div>
 
-![Snake animation](https://github.com/ratatui-ana/ratatui-ana/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](dist/github-contribution-grid-snake.svg)
