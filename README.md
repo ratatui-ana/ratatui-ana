@@ -2,7 +2,7 @@
 
 <div>
 
-<img height="160em" src="https://github-readme-stats-xi-bice-28.vercel.app/api?username=ratatui-ana&show_icons=true&theme=codeSTACKr&hide_border=true&title_color=2F80ED&card_width=450px" />
+<img height="160em" src="https://github-readme-stats-xi-bice-28.vercel.app/api?username=ratatui-ana&show_icons=true&theme=codeSTACKr&hide_border=true&title_color=2F80ED&card_width=450px&hide=stars,prs" />
 <img height="160em" src="https://github-readme-stats-xi-bice-28.vercel.app/api/top-langs/?username=ratatui-ana&layout=compact&bg_color=09131B&hide_border=true&text_color=ffffff&card_width=250px" />
 
 </div>
