@@ -1,20 +1,18 @@
-## Oi, eu sou a Ana Cristina
+## Oi, eu sou a Ana Cristina 
 
-<div>
 
-<img height="160em" src="https://github-readme-stats-xi-bice-28.vercel.app/api?username=ratatui-ana&show_icons=true&theme=codeSTACKr&hide_border=true&title_color=2F80ED&card_width=450px&hide=stars,prs" />
-  
-<img height="160em" src="https://github-readme-stats-xi-bice-28.vercel.app/api/top-langs/?username=ratatui-ana&layout=compact&bg_color=09131B&hide_border=true&text_color=ffffff&card_width=250px" />
 
-</div>
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratatui-ana&stroke=ffffff&background=09131B&ring=286ECC&fire=286ECC&currStreakNum=ffffff&currStreakLabel=286ECC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
 </div>
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
 
 ##
  
