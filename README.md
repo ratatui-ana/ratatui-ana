@@ -1,5 +1,6 @@
 ## Oi, eu sou a Ana Cristina 
-
+ Ela/dela
+##### Learning english and Javascript
 
 
 <div>
